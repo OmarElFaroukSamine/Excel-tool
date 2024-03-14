@@ -1,0 +1,1 @@
+Small program i made to check if a student is actually in a group before accepting them into a whatsapp group that were divided depending on your class number, It's made using Python and it's GUI Toolkit Tkinter
